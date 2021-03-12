@@ -73,7 +73,7 @@ fun Activity.appLaunched(appId: String) {
     }
 
     baseConfig.appRunCount++
-    if (baseConfig.appRunCount % 50 == 0 && !isAProApp()) {
+    if (baseConfig.appRunCount % 30 == 0 && !isAProApp()) {
         showDonateOrUpgradeDialog()
     }
 
@@ -918,12 +918,6 @@ fun Activity.updateSharedTheme(sharedTheme: SharedTheme) {
     } catch (e: Exception) {
         showErrorToast(e)
     }
-}
-
-fun Activity.copyToClipboard(text: String) {
-    val clip = ClipData.newPlainText(getString(R.string.simple_commons), text)
-    (getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager).setPrimaryClip(clip)
-    toast(R.string.value_copied_to_clipboard)
 }
 
 fun Activity.setupDialogStuff(view: View, dialog: AlertDialog, titleId: Int = 0, titleText: String = "", callback: (() -> Unit)? = null) {

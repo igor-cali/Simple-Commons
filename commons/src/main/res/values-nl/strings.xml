@@ -214,6 +214,7 @@
     <string name="text_color">Tekstkleur</string>
     <string name="primary_color">Primaire kleur</string>
     <string name="accent_color_white">Accent voor wit thema</string>
+    <string name="accent_color_black_and_white">Accent voor zwart-wit thema</string>
     <string name="foreground_color">Kleur voorgrond</string>
     <string name="app_icon_color">Kleur app-icoon</string>
     <string name="bottom_navigation_bar_color">Kleur navigatiebalk onder aan het scherm</string>
@@ -771,6 +772,7 @@
     <string name="why_upgrade_no_ads">Geen advertenties</string>
     <string name="why_upgrade_no_internet_access">Geen internetverbinding nodig</string>
     <string name="why_upgrade_footer">+ 100% Niet-goed-geld-teruggarantie</string>
+    <string name="why_upgrade_improved_design">Verbeterd design</string>
 
     <!-- Gallery Pro -->
     <string name="why_upgrade_advanced_photo_editor">Geavanceerde fotobewerking</string>
@@ -789,6 +791,7 @@
     <string name="why_upgrade_duplicate_contact_merging">Verbeterd samenvoegen van dubbele contacten</string>
     <string name="why_upgrade_font_size_customization">Lettergroottes aanpassen</string>
     <string name="why_upgrade_private_contact_sharing">Privécontacten alleen binnen onze apps delen (optioneel)</string>
+    <string name="why_upgrade_customizable_contact_ringtones">Ringtones per contact instellen</string>
 
     <!-- Notes Pro -->
     <string name="why_upgrade_checklists">Checklists</string>

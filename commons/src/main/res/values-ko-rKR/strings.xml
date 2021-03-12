@@ -210,6 +210,7 @@
     <string name="text_color">텍스트 색상</string>
     <string name="primary_color">주요 색상(테마)</string>
     <string name="accent_color_white">Accent color of white theme</string>
+    <string name="accent_color_black_and_white">Accent color of Black &amp; White theme</string>
     <string name="foreground_color">그리기 색상</string>
     <string name="app_icon_color">앱 아이콘 색상</string>
     <string name="bottom_navigation_bar_color">네비게이션 바 색상</string>
@@ -738,6 +739,7 @@
     <string name="why_upgrade_no_ads">광고 없음</string>
     <string name="why_upgrade_no_internet_access">인터넷 차단</string>
     <string name="why_upgrade_footer">불만족시 + 100% 환불제도</string>
+    <string name="why_upgrade_improved_design">Improved design</string>
 
     <!-- Gallery Pro -->
     <string name="why_upgrade_advanced_photo_editor">고급 사진 편집 앱</string>
@@ -756,6 +758,7 @@
     <string name="why_upgrade_duplicate_contact_merging">중복된 연락처 덮어쓰기 기능 개선 </string>
     <string name="why_upgrade_font_size_customization">글꼴 크기 설정 가능 </string>
     <string name="why_upgrade_private_contact_sharing">사용자 선택 시, 비공개로 연락처 공유할 수 있음</string>
+    <string name="why_upgrade_customizable_contact_ringtones">Customizable contact ringtones</string>
 
     <!-- Notes Pro -->
     <string name="why_upgrade_checklists">체크리스트</string>

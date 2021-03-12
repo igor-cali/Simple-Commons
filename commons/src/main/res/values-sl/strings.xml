@@ -219,6 +219,7 @@
     <string name="text_color">Barva besedila</string>
     <string name="primary_color">Primarna barva</string>
     <string name="accent_color_white">Accent color of white theme</string>
+    <string name="accent_color_black_and_white">Accent color of Black &amp; White theme</string>
     <string name="foreground_color">Barva ospredja</string>
     <string name="app_icon_color">Barva ikone aplikacije</string>
     <string name="bottom_navigation_bar_color">Barva spodnje navigacijske vrstice</string>
@@ -836,6 +837,7 @@
     <string name="why_upgrade_no_ads">No ads</string>
     <string name="why_upgrade_no_internet_access">No internet access</string>
     <string name="why_upgrade_footer">+ 100% Money Back Guarantee</string>
+    <string name="why_upgrade_improved_design">Improved design</string>
 
     <!-- Gallery Pro -->
     <string name="why_upgrade_advanced_photo_editor">Advanced photo editor</string>
@@ -854,6 +856,7 @@
     <string name="why_upgrade_duplicate_contact_merging">Improved duplicate contact merging</string>
     <string name="why_upgrade_font_size_customization">Font size customization</string>
     <string name="why_upgrade_private_contact_sharing">Optional private contact sharing within our apps</string>
+    <string name="why_upgrade_customizable_contact_ringtones">Customizable contact ringtones</string>
 
     <!-- Notes Pro -->
     <string name="why_upgrade_checklists">Checklists</string>

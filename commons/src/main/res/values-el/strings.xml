@@ -213,7 +213,8 @@
     <string name="background_color">Χρώμα φόντου</string>
     <string name="text_color">Χρώμα κειμένου</string>
     <string name="primary_color">Πρωτεύον χρώμα</string>
-    <string name="accent_color_white">Accent color of white theme</string>
+    <string name="accent_color_white">Χρώμα έμφασης Λευκού θέματος</string>
+    <string name="accent_color_black_and_white">Χρώμα έμφασης του Μαύρου &amp; Λευκού θέματος</string>
     <string name="foreground_color">Χρώμα προσκηνίου</string>
     <string name="app_icon_color">Χρώμα εικονιδίου εφαρμογής</string>
     <string name="bottom_navigation_bar_color">Χρώμα κάτω γραμμής Πλοήγησης</string>
@@ -772,6 +773,7 @@
     <string name="why_upgrade_no_ads">Χωρίς διαφ/σεις</string>
     <string name="why_upgrade_no_internet_access">Χωρίς πρόσβαση στο internet</string>
     <string name="why_upgrade_footer">+ 100% Εγγύηση επιστροφής χρημάτων</string>
+    <string name="why_upgrade_improved_design">Βελτιωμένος σχεδιασμός</string>
 
     <!-- Gallery Pro -->
     <string name="why_upgrade_advanced_photo_editor">Προηγμένος επεξεργαστής φωτογραφιών</string>
@@ -790,6 +792,7 @@
     <string name="why_upgrade_duplicate_contact_merging">Βελτιωμένη συγχώνευση διπλών επαφών</string>
     <string name="why_upgrade_font_size_customization">Προσαρμογή μεγέθους γραμ/σειράς</string>
     <string name="why_upgrade_private_contact_sharing">Προαιρετική κοινή χρήση ιδιωτικών επαφών στις εφαρμογές μας</string>
+    <string name="why_upgrade_customizable_contact_ringtones">Customizable contact ringtones</string>
 
     <!-- Notes Pro -->
     <string name="why_upgrade_checklists">Λίστες ελέγχου</string>
